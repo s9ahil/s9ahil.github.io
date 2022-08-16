@@ -8,5 +8,4 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 * [Font Awesome 5](https://fontawesome.com/)
 * [google map](https://www.embed-map.com/)
 
-#This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
-This is the [live demo](www.sharmasahil.com/) of the project .
+This is the [live demo](http://sharmasahil.com/) of the project .
